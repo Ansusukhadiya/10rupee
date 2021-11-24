@@ -1,0 +1,41 @@
+.benefit {
+    margin-left: 230px;
+    margin-block: auto;
+}
+
+.secimg1 {
+    height: 250px;
+    width: 455px;
+}
+
+.imgsec {
+    background-color: #f2e205;
+    border-radius: 20px;
+    padding: 10px;
+    height: 425px;
+}
+
+.secimg {
+    margin-top: 20px;
+    height: 360px;
+}
+
+.price {
+    margin-top: 100px;
+    margin-left: 108px;
+}
+
+.para1 {
+    color: rgb(160, 157, 157);
+}
+
+.more {
+    background-color: #f2e205;
+    color: black;
+}
+
+.more:hover {
+    /* background-color: black;
+    color: #f2e205; */
+    cursor: grab;
+}
